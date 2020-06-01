@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ba0c058-d5a6-41d9-ae27-656ee76cb71c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Html Personal Site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/photoNS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/sales1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/sales2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/sales3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/sales4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/images/skills.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hello_Natali/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/animals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/test css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section4/test css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="4ba0c058-d5a6-41d9-ae27-656ee76cb71c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -143,12 +121,12 @@
       <option name="presentableId" value="Default" />
       <updated>1590421642875</updated>
       <workItem from="1590421645047" duration="19000" />
-      <workItem from="1590952684476" duration="1518000" />
+      <workItem from="1590952684476" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1537000" />
+    <option name="totallyTimeSpent" value="1999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="704" extended-state="6" />
